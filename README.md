@@ -1,7 +1,7 @@
 # Hey, i'm Dhruv 👋
 
 # About Me:
-🎓 MCA Student<br> Learning Data Engineering, AI/ML <br> Interested in CPP , Python , Posgresql<br> Currently improving DSA skills
+🎓 MCA Student<br> Learning Data Engineering <br> Interested in python , CPP , Posgresql, MySQL<br> Currently improving DSA skills
 
 
 ## Connect:
