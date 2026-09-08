@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Limbasiya</h1>
-<h3 align="center">MCA Student | Aspiring Data Engineer | DSA Enthusiast</h3>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Learning+Data+Engineering;Sharpening+DSA+Skills;Exploring+Python+%26+C%2B%2B;Working+with+SQL+%26+NoSQL+Databases" alt="Typing SVG" />
-</p>
----
+<h1>Hi 👋, I'm Dhruv Limbasiya</h1>
  
 ### 🎓 About Me
  
