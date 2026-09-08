@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Dhruv </h1>
+<h1>Hi, I'm Dhruv👋</h1>
  
-### 🎓 About Me
+### About Me
  
 - 🎓 Currently pursuing **MCA (Master of Computer Applications)**
 - 📊 Learning **Data Engineering**
@@ -9,7 +9,7 @@
 - ⚡ Always open to learning new technologies and collaborating on interesting projects
 ---
  
-### 🛠️ Tech Stack
+### Tech Stack
  
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
  
-### 🤝 Connect
+### Connect
  
 <p align="left">
   <a href="https://linkedin.com/in/dhruv-limbasiya-a59321271" target="_blank">
