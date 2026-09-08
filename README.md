@@ -18,28 +18,11 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
----
  
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv-limbasiya&show_icons=true&theme=tokyonight&count_private=true" alt="Dhruv's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-limbasiya&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-limbasiya&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-> ℹ️ Replace `dhruv-limbasiya` above with your exact GitHub username if it differs, so the stats cards render correctly.
- 
----
- 
-### 🤝 Connect with Me
+### 🤝 Connect
  
 <p align="left">
   <a href="https://linkedin.com/in/dhruv-limbasiya-a59321271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
----
- 
-<p align="center"><i>Proudly created with ❤️ — profile crafted for showcasing my journey in Data Engineering & DSA</i></p>
