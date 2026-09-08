@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Dhruv Limbasiya</h1>
+<h1>Hi 👋, I'm Dhruv </h1>
  
 ### 🎓 About Me
  
